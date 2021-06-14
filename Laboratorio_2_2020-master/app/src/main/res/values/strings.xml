@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Android_Lab_1_2020</string>
-    <string name="edit_message">Escriba un mensaje</string>
-    <string name="send_message">Enviar mensaje</string>
-    <string name="welcome_message">mostrar mensaje</string>
-</resources>

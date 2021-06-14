@@ -9,52 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ec3553-11b3-450c-ad70-c5ac246580dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/androidTest/java/com/abc_lab1/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/java/com/abc_lab1/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/java/com/abc_lab1/MessageActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/layout/activity_message.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/app/src/test/java/com/abc_lab1/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio_2_2020-master/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="79ec3553-11b3-450c-ad70-c5ac246580dd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab-3/Lab_3" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1791501570">
@@ -255,6 +210,10 @@
       <screen x="1792" y="25" width="3440" height="1415" />
     </state>
     <state x="3209" y="25" width="2023" height="1415" key="AndroidCreateXmlResourceDialog/1792.25.3440.1415/0.25.1792.1036@1792.25.3440.1415" timestamp="1618454263391" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1623687766455">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1623687766455" />
     <state width="1981" height="406" key="GridCell.Tab.0.bottom" timestamp="1618515668599">
       <screen x="1792" y="25" width="3440" height="1415" />
     </state>
